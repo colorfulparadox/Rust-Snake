@@ -1,0 +1,10 @@
+{
+    "GameName": "Snake",
+    "Verison": 0.1,
+    "WindowSize": {
+        "Width": 532,
+        "Height": 532
+    },
+    "Resizable": false,
+    "TileSize": 16
+}
