@@ -1,0 +1,12 @@
+D:\Desktop\Rust\Rust-Snake\target\debug\deps\bevy_input-200bd671a5994a19.rmeta: C:\Users\prest\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_input-0.7.0\src\lib.rs C:\Users\prest\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_input-0.7.0\src\axis.rs C:\Users\prest\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_input-0.7.0\src\gamepad.rs C:\Users\prest\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_input-0.7.0\src\input.rs C:\Users\prest\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_input-0.7.0\src\keyboard.rs C:\Users\prest\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_input-0.7.0\src\mouse.rs C:\Users\prest\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_input-0.7.0\src\system.rs C:\Users\prest\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_input-0.7.0\src\touch.rs
+
+D:\Desktop\Rust\Rust-Snake\target\debug\deps\bevy_input-200bd671a5994a19.d: C:\Users\prest\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_input-0.7.0\src\lib.rs C:\Users\prest\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_input-0.7.0\src\axis.rs C:\Users\prest\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_input-0.7.0\src\gamepad.rs C:\Users\prest\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_input-0.7.0\src\input.rs C:\Users\prest\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_input-0.7.0\src\keyboard.rs C:\Users\prest\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_input-0.7.0\src\mouse.rs C:\Users\prest\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_input-0.7.0\src\system.rs C:\Users\prest\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_input-0.7.0\src\touch.rs
+
+C:\Users\prest\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_input-0.7.0\src\lib.rs:
+C:\Users\prest\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_input-0.7.0\src\axis.rs:
+C:\Users\prest\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_input-0.7.0\src\gamepad.rs:
+C:\Users\prest\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_input-0.7.0\src\input.rs:
+C:\Users\prest\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_input-0.7.0\src\keyboard.rs:
+C:\Users\prest\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_input-0.7.0\src\mouse.rs:
+C:\Users\prest\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_input-0.7.0\src\system.rs:
+C:\Users\prest\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_input-0.7.0\src\touch.rs:

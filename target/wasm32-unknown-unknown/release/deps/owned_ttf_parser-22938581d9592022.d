@@ -1,0 +1,10 @@
+D:\Desktop\Rust\Rust-Snake\target\wasm32-unknown-unknown\release\deps\owned_ttf_parser-22938581d9592022.rmeta: C:\Users\prest\.cargo\registry\src\index.crates.io-6f17d22bba15001f\owned_ttf_parser-0.15.0\src\lib.rs C:\Users\prest\.cargo\registry\src\index.crates.io-6f17d22bba15001f\owned_ttf_parser-0.15.0\src\convert.rs C:\Users\prest\.cargo\registry\src\index.crates.io-6f17d22bba15001f\owned_ttf_parser-0.15.0\src\owned.rs C:\Users\prest\.cargo\registry\src\index.crates.io-6f17d22bba15001f\owned_ttf_parser-0.15.0\src\preparse.rs
+
+D:\Desktop\Rust\Rust-Snake\target\wasm32-unknown-unknown\release\deps\libowned_ttf_parser-22938581d9592022.rlib: C:\Users\prest\.cargo\registry\src\index.crates.io-6f17d22bba15001f\owned_ttf_parser-0.15.0\src\lib.rs C:\Users\prest\.cargo\registry\src\index.crates.io-6f17d22bba15001f\owned_ttf_parser-0.15.0\src\convert.rs C:\Users\prest\.cargo\registry\src\index.crates.io-6f17d22bba15001f\owned_ttf_parser-0.15.0\src\owned.rs C:\Users\prest\.cargo\registry\src\index.crates.io-6f17d22bba15001f\owned_ttf_parser-0.15.0\src\preparse.rs
+
+D:\Desktop\Rust\Rust-Snake\target\wasm32-unknown-unknown\release\deps\owned_ttf_parser-22938581d9592022.d: C:\Users\prest\.cargo\registry\src\index.crates.io-6f17d22bba15001f\owned_ttf_parser-0.15.0\src\lib.rs C:\Users\prest\.cargo\registry\src\index.crates.io-6f17d22bba15001f\owned_ttf_parser-0.15.0\src\convert.rs C:\Users\prest\.cargo\registry\src\index.crates.io-6f17d22bba15001f\owned_ttf_parser-0.15.0\src\owned.rs C:\Users\prest\.cargo\registry\src\index.crates.io-6f17d22bba15001f\owned_ttf_parser-0.15.0\src\preparse.rs
+
+C:\Users\prest\.cargo\registry\src\index.crates.io-6f17d22bba15001f\owned_ttf_parser-0.15.0\src\lib.rs:
+C:\Users\prest\.cargo\registry\src\index.crates.io-6f17d22bba15001f\owned_ttf_parser-0.15.0\src\convert.rs:
+C:\Users\prest\.cargo\registry\src\index.crates.io-6f17d22bba15001f\owned_ttf_parser-0.15.0\src\owned.rs:
+C:\Users\prest\.cargo\registry\src\index.crates.io-6f17d22bba15001f\owned_ttf_parser-0.15.0\src\preparse.rs:

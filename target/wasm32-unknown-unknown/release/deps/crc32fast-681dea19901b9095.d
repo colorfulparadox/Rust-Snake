@@ -1,0 +1,11 @@
+D:\Desktop\Rust\Rust-Snake\target\wasm32-unknown-unknown\release\deps\crc32fast-681dea19901b9095.rmeta: C:\Users\prest\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crc32fast-1.3.2\src\lib.rs C:\Users\prest\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crc32fast-1.3.2\src\baseline.rs C:\Users\prest\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crc32fast-1.3.2\src\combine.rs C:\Users\prest\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crc32fast-1.3.2\src\specialized\mod.rs C:\Users\prest\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crc32fast-1.3.2\src\table.rs
+
+D:\Desktop\Rust\Rust-Snake\target\wasm32-unknown-unknown\release\deps\libcrc32fast-681dea19901b9095.rlib: C:\Users\prest\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crc32fast-1.3.2\src\lib.rs C:\Users\prest\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crc32fast-1.3.2\src\baseline.rs C:\Users\prest\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crc32fast-1.3.2\src\combine.rs C:\Users\prest\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crc32fast-1.3.2\src\specialized\mod.rs C:\Users\prest\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crc32fast-1.3.2\src\table.rs
+
+D:\Desktop\Rust\Rust-Snake\target\wasm32-unknown-unknown\release\deps\crc32fast-681dea19901b9095.d: C:\Users\prest\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crc32fast-1.3.2\src\lib.rs C:\Users\prest\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crc32fast-1.3.2\src\baseline.rs C:\Users\prest\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crc32fast-1.3.2\src\combine.rs C:\Users\prest\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crc32fast-1.3.2\src\specialized\mod.rs C:\Users\prest\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crc32fast-1.3.2\src\table.rs
+
+C:\Users\prest\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crc32fast-1.3.2\src\lib.rs:
+C:\Users\prest\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crc32fast-1.3.2\src\baseline.rs:
+C:\Users\prest\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crc32fast-1.3.2\src\combine.rs:
+C:\Users\prest\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crc32fast-1.3.2\src\specialized\mod.rs:
+C:\Users\prest\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crc32fast-1.3.2\src\table.rs:

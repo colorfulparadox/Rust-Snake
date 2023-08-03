@@ -1,0 +1,11 @@
+D:\Desktop\Rust\Rust-Snake\target\wasm32-unknown-unknown\release\deps\bevy_app-21ac470b5a5dd5a3.rmeta: C:\Users\prest\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_app-0.7.0\src\lib.rs C:\Users\prest\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_app-0.7.0\src\app.rs C:\Users\prest\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_app-0.7.0\src\plugin.rs C:\Users\prest\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_app-0.7.0\src\plugin_group.rs C:\Users\prest\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_app-0.7.0\src\schedule_runner.rs
+
+D:\Desktop\Rust\Rust-Snake\target\wasm32-unknown-unknown\release\deps\libbevy_app-21ac470b5a5dd5a3.rlib: C:\Users\prest\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_app-0.7.0\src\lib.rs C:\Users\prest\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_app-0.7.0\src\app.rs C:\Users\prest\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_app-0.7.0\src\plugin.rs C:\Users\prest\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_app-0.7.0\src\plugin_group.rs C:\Users\prest\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_app-0.7.0\src\schedule_runner.rs
+
+D:\Desktop\Rust\Rust-Snake\target\wasm32-unknown-unknown\release\deps\bevy_app-21ac470b5a5dd5a3.d: C:\Users\prest\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_app-0.7.0\src\lib.rs C:\Users\prest\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_app-0.7.0\src\app.rs C:\Users\prest\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_app-0.7.0\src\plugin.rs C:\Users\prest\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_app-0.7.0\src\plugin_group.rs C:\Users\prest\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_app-0.7.0\src\schedule_runner.rs
+
+C:\Users\prest\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_app-0.7.0\src\lib.rs:
+C:\Users\prest\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_app-0.7.0\src\app.rs:
+C:\Users\prest\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_app-0.7.0\src\plugin.rs:
+C:\Users\prest\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_app-0.7.0\src\plugin_group.rs:
+C:\Users\prest\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_app-0.7.0\src\schedule_runner.rs:

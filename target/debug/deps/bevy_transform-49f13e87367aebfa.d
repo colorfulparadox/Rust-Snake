@@ -1,0 +1,10 @@
+D:\Desktop\Rust\Rust-Snake\target\debug\deps\bevy_transform-49f13e87367aebfa.rmeta: C:\Users\prest\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_transform-0.7.0\src\lib.rs C:\Users\prest\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_transform-0.7.0\src\components\mod.rs C:\Users\prest\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_transform-0.7.0\src\components\global_transform.rs C:\Users\prest\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_transform-0.7.0\src\components\transform.rs C:\Users\prest\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_transform-0.7.0\src\systems.rs C:\Users\prest\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_transform-0.7.0\src\../README.md
+
+D:\Desktop\Rust\Rust-Snake\target\debug\deps\bevy_transform-49f13e87367aebfa.d: C:\Users\prest\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_transform-0.7.0\src\lib.rs C:\Users\prest\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_transform-0.7.0\src\components\mod.rs C:\Users\prest\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_transform-0.7.0\src\components\global_transform.rs C:\Users\prest\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_transform-0.7.0\src\components\transform.rs C:\Users\prest\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_transform-0.7.0\src\systems.rs C:\Users\prest\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_transform-0.7.0\src\../README.md
+
+C:\Users\prest\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_transform-0.7.0\src\lib.rs:
+C:\Users\prest\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_transform-0.7.0\src\components\mod.rs:
+C:\Users\prest\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_transform-0.7.0\src\components\global_transform.rs:
+C:\Users\prest\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_transform-0.7.0\src\components\transform.rs:
+C:\Users\prest\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_transform-0.7.0\src\systems.rs:
+C:\Users\prest\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_transform-0.7.0\src\../README.md:

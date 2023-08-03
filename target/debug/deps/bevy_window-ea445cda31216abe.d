@@ -1,0 +1,11 @@
+D:\Desktop\Rust\Rust-Snake\target\debug\deps\bevy_window-ea445cda31216abe.rmeta: C:\Users\prest\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_window-0.7.0\src\lib.rs C:\Users\prest\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_window-0.7.0\src\cursor.rs C:\Users\prest\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_window-0.7.0\src\event.rs C:\Users\prest\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_window-0.7.0\src\raw_window_handle.rs C:\Users\prest\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_window-0.7.0\src\system.rs C:\Users\prest\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_window-0.7.0\src\window.rs C:\Users\prest\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_window-0.7.0\src\windows.rs
+
+D:\Desktop\Rust\Rust-Snake\target\debug\deps\bevy_window-ea445cda31216abe.d: C:\Users\prest\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_window-0.7.0\src\lib.rs C:\Users\prest\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_window-0.7.0\src\cursor.rs C:\Users\prest\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_window-0.7.0\src\event.rs C:\Users\prest\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_window-0.7.0\src\raw_window_handle.rs C:\Users\prest\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_window-0.7.0\src\system.rs C:\Users\prest\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_window-0.7.0\src\window.rs C:\Users\prest\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_window-0.7.0\src\windows.rs
+
+C:\Users\prest\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_window-0.7.0\src\lib.rs:
+C:\Users\prest\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_window-0.7.0\src\cursor.rs:
+C:\Users\prest\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_window-0.7.0\src\event.rs:
+C:\Users\prest\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_window-0.7.0\src\raw_window_handle.rs:
+C:\Users\prest\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_window-0.7.0\src\system.rs:
+C:\Users\prest\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_window-0.7.0\src\window.rs:
+C:\Users\prest\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_window-0.7.0\src\windows.rs:

@@ -1,0 +1,40 @@
+cargo:rerun-if-changed=build.rs
+cargo:rerun-if-changed=ext/vswhom.cpp
+TARGET = Some("x86_64-pc-windows-msvc")
+OPT_LEVEL = Some("0")
+HOST = Some("x86_64-pc-windows-msvc")
+CXX_x86_64-pc-windows-msvc = None
+CXX_x86_64_pc_windows_msvc = None
+HOST_CXX = None
+CXX = None
+CXXFLAGS_x86_64-pc-windows-msvc = None
+CXXFLAGS_x86_64_pc_windows_msvc = None
+HOST_CXXFLAGS = None
+CXXFLAGS = None
+CRATE_CC_NO_DEFAULTS = None
+CARGO_CFG_TARGET_FEATURE = Some("fxsr,sse,sse2")
+DEBUG = Some("false")
+running: "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe" "-nologo" "-MD" "-Brepro" "-W4" "-FoD:\\Desktop\\Rust\\Rust-Snake\\target\\debug\\build\\vswhom-sys-eb7792fccc3fb9c0\\out\\ext/vswhom.o" "-c" "ext/vswhom.cpp"
+vswhom.cpp
+ext/vswhom.cpp(212): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+ext/vswhom.cpp(215): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+ext/vswhom.cpp(430): warning C4456: declaration of 'hr' hides previous local declaration
+ext/vswhom.cpp(417): note: see declaration of 'hr'
+ext/vswhom.cpp(458): warning C4244: 'argument': conversion from 'LONGLONG' to 'int', possible loss of data
+ext/vswhom.cpp(501): warning C4456: declaration of 'rc' hides previous local declaration
+ext/vswhom.cpp(409): note: see declaration of 'rc'
+exit code: 0
+AR_x86_64-pc-windows-msvc = None
+AR_x86_64_pc_windows_msvc = None
+HOST_AR = None
+AR = None
+running: "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\lib.exe" "-out:D:\\Desktop\\Rust\\Rust-Snake\\target\\debug\\build\\vswhom-sys-eb7792fccc3fb9c0\\out\\libvswhom.a" "-nologo" "D:\\Desktop\\Rust\\Rust-Snake\\target\\debug\\build\\vswhom-sys-eb7792fccc3fb9c0\\out\\ext/vswhom.o"
+exit code: 0
+cargo:rustc-link-lib=static=vswhom
+cargo:rustc-link-search=native=D:\Desktop\Rust\Rust-Snake\target\debug\build\vswhom-sys-eb7792fccc3fb9c0\out
+CXXSTDLIB_x86_64-pc-windows-msvc = None
+CXXSTDLIB_x86_64_pc_windows_msvc = None
+HOST_CXXSTDLIB = None
+CXXSTDLIB = None
+cargo:rustc-link-lib=dylib=OleAut32
+cargo:rustc-link-lib=dylib=Ole32
